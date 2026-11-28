@@ -22,11 +22,12 @@ Use returned numbers to make a nested loop that prints the full classroom.
 4. print outcomes(tables)
 
    Your print should look like this:
+   ```
    s s s s s
    s s s s s
    s s s s s
    s s s s s
-
+   ```
 
    ### Task 3:
    print seating chart with absent students
@@ -39,10 +40,11 @@ Use returned numbers to make a nested loop that prints the full classroom.
 
 
     Your Print shuld look like this:
+   ```
     S S S S S
     S S S S S
     S S S X S
     S S S S S
-
+   ```
    ### Task 4 :more absent seats
    Thinking of more  
